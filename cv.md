@@ -41,3 +41,9 @@ return (a + b).toString(2);
 - [HtmlAcademy](https://htmlacademy.ru/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Udemy](https://www.udemy.com/)
+
+## Languages
+
+- Russion(native)
+- English (B2 lvl)
+- A little bit of German
