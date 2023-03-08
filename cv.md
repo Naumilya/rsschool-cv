@@ -35,6 +35,11 @@ return (a + b).toString(2);
 }
 ```
 
+## My projects
+
+- [CV](https://github.com/Naumilya/rsschool-cv)
+- [Shop of furniture](https://github.com/Naumilya/Landing-page)
+
 ## Course
 
 - Moscow instrument-making technical school. G.V. Plekhanov
