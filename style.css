@@ -1,0 +1,84 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	/* background-color: #000; */
+	font-family: 'Raleway', sans-serif;
+}
+
+a:visited {
+	color: #000;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: 600;
+	line-height: 60px;
+}
+
+h1 > span {
+	display: block;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 16px;
+	padding-bottom: 30px;
+}
+
+.container {
+	max-width: 1300px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.header-inner {
+	position: sticky;
+	display: flex;
+	justify-content: space-between;
+	padding: 70px 0;
+}
+
+.logo {
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.logo > span {
+	padding: 10px 12px;
+	background-color: #000;
+	color: #fff;
+	border-radius: 5px;
+}
+.header__link {
+	text-decoration: none;
+	margin-right: 10px;
+	transition: all 0.3s ease-in-out;
+}
+
+.header__link:hover img {
+	opacity: 70%;
+	transform: scale(1.1);
+}
+
+.header__img {
+	max-width: 25px;
+}
+
+/* banner */
+
+.banner {
+}
+
+.row {
+	display: flex;
+}
+.main-photo {
+}
+.main-photo__img {
+	max-width: 526px;
+	max-height: 600px;
+}
